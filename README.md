@@ -6,19 +6,19 @@
 
 # Supply chain & data auditing
 
-This repository containts an Ethereum DApp that demonstrates a Supply Chain flow between a Farmer and Buyer. The user story is similar to any commonly used supply chain process for date. The farmer will ship dates to partner who is going to post the dates for sell after middle steps. A buyer then can buy the dates.
+This repository containts an Ethereum DApp that demonstrates a Supply Chain flow between a Farmer and Buyer. The user story is similar to any commonly used supply chain process for dates. The farmer will ship dates to partner who is going to post the dates for sell after middle steps. A buyer then can buy the dates.
 
 The DApp User Interface when running should look like...
 
-![truffle test](images/Interface-P1.png)
+![truffle test](images/Interface-P1.PNG)
 
-![truffle test](images/Interface-P2.png)
+![truffle test](images/Interface-P2.PNG)
 
-![truffle test](images/Interface-P3.png)
+![truffle test](images/Interface-P3.PNG)
 
-![truffle test](images/Interface-P4.png)
+![truffle test](images/Interface-P4.PNG)
 
-![truffle test](images/Interface-P5.png)
+![truffle test](images/Interface-P5.PNG)
 
 
 ## Getting Started
@@ -42,7 +42,7 @@ A step by step series of examples that tell you have to get a development env ru
 Clone this repository:
 
 ```
-git clone 
+git clone https://github.com/Alamink/Project-6.git
 ```
 
 Change directory to ```project-6``` folder and install all requisite npm packages (as listed in ```package.json```):
@@ -70,7 +70,7 @@ compile
 
 Your terminal should look something like this:
 
-![truffle test](images/truffle-compile.png)
+![truffle test](images/truffle-compile.PNG)
 
 This will create the smart contract artifacts in folder ```build\contracts```.
 
@@ -83,7 +83,7 @@ test
 
 All tests should pass.
 
-![truffle test](images/truffle-test.png)
+![truffle test](images/truffle-test.PNG)
 
 In a separate terminal window, launch the DApp:
 
@@ -97,10 +97,6 @@ npm run dev
 to make the web faster, safer, and more open.
 * [Truffle Framework](http://truffleframework.com/) - Truffle is the most popular development framework for Ethereum with a mission to make your life a whole lot easier.
 
-
-## Authors
-
-See also the list of [contributors](https://github.com/your/project/contributors.md) who participated in this project.
 
 ## Acknowledgments
 
